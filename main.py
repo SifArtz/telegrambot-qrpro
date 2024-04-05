@@ -10,7 +10,7 @@ import re
 from vintedpars import get_item_info
 from photo import round_image
 
-TOKEN = "7142536404:AAF_sN1UV9BCKtugxZ5FTNGUB2wqByBs3oI"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 # Сессия
